@@ -2,8 +2,6 @@ import java.util.Scanner;
 
 import static java.lang.Math.sqrt;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
   static double e=2.71828182846;
   static double p=3.14159265359;
